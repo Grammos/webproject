@@ -1,0 +1,31 @@
+Simple and clean business template.
+Could be used for any kind of business.
+Everything is organized so anybody can edit this template in no time.
+Based on 960 grid system.
+
+Download zip includes: 
+5 Psd files and help.txt
+
+You may edit these as you wish
+
+I hope you find these files useful.
+If you like this, link to my DA profile, website (www.emicca.com), comments or favs are much appreciated
+
+
+
+Files in zip:
+- home.pds
+- about.psd
+- services.psd 
+- contact.psd
+- news.psd
+
+Font used:
+Trebuchet MS and Arial.
+
+All stock images from:
+http://www.photorack.net/
+
+Icons from:
+http://blog.sfaranda.com/
+http://mazenl77.deviantart.com/
